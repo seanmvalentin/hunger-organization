@@ -1,0 +1,45 @@
+
+body{
+  background-color: #ffffff;
+  background-image: url(foodplate2.png);
+  background-repeat: no-repeat;
+  background-position: center 100px;
+  background-attachment: fixed;}
+h1{
+  color: #8b0000;
+  text-shadow: .05em .05em black;
+  text-align: center;
+  font-family: "Kaushan Script",georgia,serif;
+
+}
+h2{
+  text-align: center;
+  color: #fa8072;
+  text-shadow: .05em .05em black;
+  font-family: "Kaushan Script",georgia,serif;
+
+}
+h3{
+  text-align: center;
+  color: #f08080;
+  text-shadow: .05em .05em black;
+  font-family: "Kaushan Script",georgia,serif;
+
+}
+p{
+ text-align: center;
+ font-size: 1.3em;
+}
+
+a{
+ font-size: 2em;
+ text-align: center;
+}
+a:link {color:blue;}
+a:visited {color: gray;}
+a:focus {color: brown; background-color:#ff4500;}
+a:hover{color: brown; background-color: #ff4500;}
+a:active{color:#ffb6c1;background-color: #ff4500;}
+header{
+  text-align: center;
+}
